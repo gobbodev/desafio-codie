@@ -1,0 +1,52 @@
+{
+  "storage": [
+    {
+      "id": 1,
+      "url": "https://mail.google.com/mail/u/0/#inbox",
+      "folder": "Gmail2",
+      "title": "ze",
+      "user": "zel@gmail.com",
+      "password": "231"
+    },
+    {
+      "url": "https://mail.google.com/mail/u/0/#inbox",
+      "folder": "Gmail",
+      "title": "Gmail",
+      "user": "gabriel@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "url": "https://mail.google.com/mail/u/0/#inbox",
+      "folder": "Gmail",
+      "title": "Gmail",
+      "user": "gabriel@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "url": "https://mail.google.com/mail/u/0/#inbox",
+      "folder": "Instagram",
+      "title": "Gmail",
+      "user": "gabriel@gmail.com",
+      "password": "123"
+    },
+    {
+      "url": "https://mail.google.com/mail/u/0/#inbox",
+      "folder": "Gmail2",
+      "title": "ze",
+      "user": "zel@gmail.com",
+      "password": "231",
+      "id": 5
+    },
+    {
+      "url": "https://www.instagram.com/?hl=en",
+      "folder": "Instagram",
+      "title": "ze",
+      "user": "zel@gmail.com",
+      "password": "123",
+      "id": 6
+    }
+  ]
+}
